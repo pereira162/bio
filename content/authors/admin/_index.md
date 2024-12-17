@@ -1,43 +1,42 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lucas Pereira de Campos
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pereira de Campos
+last_name: Lucas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏗
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Engenheiro Civil
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: EngCampos
+    url: https://www.engcampos.com.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: 'mailto:lpc.engenharia@gmail.com'
+    label: Envie um e-mail
+  - icon: brands/whatsapp
+    url: https://wa.me/5541984441154
+    label: Entre em contato
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/pereira162/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/lucaspcampos7/
 
 education:
   - area: PhD Artificial Intelligence
