@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: ''
+date: 2024-11-16
 type: landing
 
 design:
@@ -16,33 +16,34 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Download CV
+        url: uploads/CV Lucas Campos_2024.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: daniel-mccullough--FPFq_trr2Y-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Experiência Profissional
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Habilidades
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Certificados
       username: admin
   - block: languages
     content:
-      title: Languages
+      title: Idiomas
       username: admin
 ---
