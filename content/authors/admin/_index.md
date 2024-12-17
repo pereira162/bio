@@ -110,16 +110,19 @@ skills:
       - name: Dynamo
         description: 'Básico'
         icon: devicon/pytorch
+  - name: Idiomas 
+    items:
+      - name: Português
+        description: 'Nativo'
+        icon: devicon/python
+      - name: Inglês 
+        description: 'Avançado'
+        icon: devicon/rstudio
+      - name: Espanhol
+        description: 'Iniciante'
+        icon: devicon/pytorch
 
 
-languages:
-  - name: Português
-    description: 'Nativo'
-    percent: 80
-  - name: Inglês
-    description: 'Avançado'
-  - name: Espanhol
-    description: 'iniciante'
 
 # Awards.
 #   Add/remove as many awards below as you like.
