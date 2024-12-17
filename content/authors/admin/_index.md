@@ -39,37 +39,24 @@ profiles:
     url: https://www.instagram.com/lucaspcampos7/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MBA Executivo em Liderança e Gestão
+    institution: USP/Esalq 
+    date_start: 2014-08-01
+    date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Sobre o curso'
+      url: 'https://mbauspesalq.com/cursos/mba-executivo-em-lideranca-e-gestao'
+  - area: Pós-Graduação em Engenharia de Avaliações e Perícias
+    institution: Faculdade Facuvale
+    date_start: 2024-07-01
+    date_end: 2024-11-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bacharelado em Engenharia Civil
+    institution: UNASP – Centro Universitário Adventista de São Paulo
+    date_start: 2013-02-01
+    date_end: 2017-12-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -97,43 +84,42 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Softwares
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: 'Iniciante'
-        percent: 100
-        icon: cat
-      - name: Photography
+      - name: AutoCAD
         description: 'Avançado'
-        icon: camera
+        icon: devicon/python
+      - name: Civil 3D
+        description: 'Avançado'
+        icon: devicon/rstudio
+      - name: Revit
+        description: 'Avançado'
+        icon: devicon/pytorch
+      - name: TQS
+        description: 'Intermediário'
+        icon: devicon/pytorch
+      - name: QGIS
+        description: 'Intermediário'
+        icon: devicon/pytorch
+      - name: Autodesk Construction Cloud
+        description: 'Intermediário'
+        icon: devicon/pytorch
+      - name: SAM (System Advisor Model)
+        description: 'Intermediário'
+        icon: devicon/pytorch
+      - name: Dynamo
+        description: 'Básico'
+        icon: devicon/pytorch
+
 
 languages:
-  - name: English
+  - name: Português
+    description: 'Nativo'
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Inglês
+    description: 'Avançado'
+  - name: Espanhol
+    description: 'iniciante'
 
 # Awards.
 #   Add/remove as many awards below as you like.

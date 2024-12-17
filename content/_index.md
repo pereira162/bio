@@ -24,8 +24,8 @@ sections:
         filename: daniel-mccullough--FPFq_trr2Y-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+        style: 'text-align: justify; font-size: 0.8em; margin-right: 5px; margin-left: 5px;'
+  - block: Experiência Profissional
     content:
       title: Experiência Profissional
       username: admin
