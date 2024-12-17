@@ -115,7 +115,7 @@ skills:
 languages:
   - name: Português
     description: 'Nativo'
-    percent: 100
+    percent: 80
   - name: Inglês
     description: 'Avançado'
   - name: Espanhol
