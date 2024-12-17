@@ -117,6 +117,7 @@ skills:
         icon: devicon/python
       - name: Inglês 
         description: 'Avançado'
+        description: '3 anos de Instituto de Línguas. Estadia de 2 meses e meio na Austrália.'
         icon: devicon/rstudio
       - name: Espanhol
         description: 'Iniciante'
