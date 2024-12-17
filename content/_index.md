@@ -42,8 +42,4 @@ sections:
     content:
       title: Certificados
       username: admin
-  - block: languages
-    content:
-      title: Idiomas
-      username: admin
 ---
