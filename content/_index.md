@@ -25,7 +25,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em; margin-right: 5px; margin-left: 5px;'
-  - block: Experiência Profissional
+  - block: experience
     content:
       title: Experiência Profissional
       username: admin
